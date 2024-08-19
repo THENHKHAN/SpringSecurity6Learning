@@ -1,0 +1,8 @@
+Spring Security 6 with Spring Boot and JWT Tutorial  - Telusko
+https://www.youtube.com/watch?v=oeni_9g7too                      -- 3hrs oneShot -- most recent 11Aug24
+https://www.youtube.com/watch?v=6C6L3Q7nDJU&list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF&index=3           -- playList
+
+
+------------ other ref: -------------- Spring Security 6 with Spring Boot and JWT Tutorial ---
+https://www.youtube.com/watch?v=GH7L4D8Q_ak
+https://www.youtube.com/watch?v=f0Qsst3hwpQ&list=PL3NrzZBjk6m8pmxjh4i9mF_K-c5mcGuqt               -- selenium
